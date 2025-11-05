@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../RydeBookingService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../RydeProject-AuthService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../RydeProject-EntityService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../RydeProject-LocationService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../RydeWebsocketServer" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/RydeApplicationProject.iml" filepath="$PROJECT_DIR$/.idea/RydeApplicationProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RydeBookingService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/RydeBookingService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RydeProject-AuthService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/RydeProject-AuthService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RydeProject-EntityService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/RydeProject-EntityService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RydeProject-LocationService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/RydeProject-LocationService.main.iml" />
+    </modules>
+  </component>
+</project>

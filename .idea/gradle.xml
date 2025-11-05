@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../RydeBookingService" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../RydeBookingService" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../RydeProject-AuthService" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../RydeProject-AuthService" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../RydeProject-EntityService" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../RydeProject-EntityService" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../RydeProject-LocationService" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../RydeProject-LocationService" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../RydeServiceDiscovery" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../RydeServiceDiscovery" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../RydeWebsocketServer" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../RydeWebsocketServer" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
